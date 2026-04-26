@@ -166,7 +166,7 @@ A minimal relay running on **Vercel Edge Functions** that forwards **XHTTP** tra
 |---|---|
 | **Type** | `A` |
 | **Name** | `xray` (یا هر چیز دلخواه — می‌شه `xray.yourdomain.com`) |
-| **IPv4 address** | IP عمومی VPS تو (مثلاً `144.208.66.185`) |
+| **IPv4 address** | IP عمومی VPS تو (مثلاً `203.0.113.45`) |
 | **Proxy status** | ⚫ **DNS only** (خاکستری، **نه** نارنجی) |
 | **TTL** | `Auto` |
 
@@ -266,7 +266,7 @@ xray uuid
 
 خروجی مثل:
 ```
-05282829-6aaa-4ce8-9aca-a7ba3cad5d25
+xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 ```
 
 **این UUID رو ذخیره کن** — بعداً تو کانفیگ سرور و کلاینت لازمه.
