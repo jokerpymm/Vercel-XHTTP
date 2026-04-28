@@ -1,12 +1,9 @@
 
-/**
-1oyreo
-tuoo
-**/
+
 
 {
   "version": 2,
-  "name": "vercel-xhttp-relay",
+  "name": "vercel-xtp-relay",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
