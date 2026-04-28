@@ -1,6 +1,5 @@
 {
-  "name": "vercel-x
-tp-relay",
+  "name": "vercel-xtp-relay",
   "version": "1.0.0",
   "description": "Edge-runtime XTP relay for Xray/V2Ray on Vercel",
   "private": true,
